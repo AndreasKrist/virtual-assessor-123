@@ -1,0 +1,35 @@
+{
+    "name": "minimalist-blog",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "date-fns": "^2.30.0",
+        "framer-motion": "^10.18.0",
+        "gray-matter": "^4.0.3",
+        "next": "^15.2.4",
+        "next-mdx-remote": "^4.4.1",
+        "next-themes": "^0.2.1",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "reading-time": "^1.5.0",
+        "recharts": "^2.15.2",
+        "rehype-prism-plus": "^1.6.0",
+        "rehype-slug": "^5.1.0",
+        "remark-gfm": "^3.0.1",
+        "swr": "^2.3.3"
+    },
+    "devDependencies": {
+        "@tailwindcss/typography": "^0.5.9",
+        "autoprefixer": "^10.4.14",
+        "eslint": "^8.46.0",
+        "eslint-config-next": "13.4.12",
+        "postcss": "^8.4.27",
+        "tailwindcss": "^3.3.3"
+    }
+}

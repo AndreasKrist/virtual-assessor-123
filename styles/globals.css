@@ -1,0 +1,158 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply scroll-smooth;
+  }
+  
+  body {
+    @apply bg-white dark:bg-gray-900 text-gray-800 dark:text-gray-100;
+    font-feature-settings: "kern";
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* Fix for bold text in dark mode */
+  strong, b {
+    @apply text-gray-900 dark:text-gray-100;
+  }
+
+  /* Common focus styles */
+  *:focus-visible {
+    @apply outline-none ring-2 ring-red-500 ring-offset-2 ring-offset-white dark:ring-offset-gray-900;
+  }
+}
+
+@layer components {
+  .container-narrow {
+    @apply max-w-6xl mx-auto px-4 sm:px-8;
+  }
+  
+  .article-container {
+    @apply max-w-5xl mx-auto px-4 sm:px-8 md:px-10;
+  }
+  
+  .article-grid {
+    @apply space-y-10 md:space-y-12;
+  }
+
+  /* Modern Card */
+  .modern-card {
+    @apply bg-white dark:bg-gray-800 shadow rounded-xl;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  
+  .modern-card:hover {
+    @apply shadow-md;
+    transform: translateY(-4px);
+  }
+  
+  /* Modern Header */
+  .modern-header {
+    @apply bg-white/90 dark:bg-gray-900/90 backdrop-blur-sm;
+  }
+
+  /* Link styles */
+  .link {
+    @apply text-red-600 dark:text-red-400 hover:text-red-800 dark:hover:text-red-300 transition;
+  }
+
+  /* Buttons */
+  .btn {
+    @apply inline-flex items-center justify-center px-4 py-2 border border-transparent text-sm font-medium rounded-lg 
+    focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-red-500 transition-all duration-200;
+  }
+
+  .btn-primary {
+    @apply btn bg-red-600 text-white hover:bg-red-700 shadow-sm;
+  }
+
+  .btn-secondary {
+    @apply btn bg-gray-200 text-gray-800 hover:bg-gray-300 dark:bg-gray-700 dark:text-gray-200 dark:hover:bg-gray-600;
+  }
+  
+  /* Category styles */
+  .category-pill {
+    @apply px-4 py-2 rounded-full text-sm font-medium transition-colors duration-150 flex-shrink-0;
+  }
+  
+  .category-pill-active {
+    @apply bg-red-600 text-white shadow-sm;
+  }
+  
+  .category-pill-inactive {
+    @apply bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-700 border border-gray-200 dark:border-gray-700;
+  }
+  
+  /* Mobile category slider */
+  .category-slider {
+    @apply flex gap-2 md:flex-wrap;
+  }
+  
+  @media (max-width: 768px) {
+    .category-slider {
+      @apply flex overflow-x-auto py-2 no-scrollbar;
+      scroll-behavior: smooth;
+      -webkit-overflow-scrolling: touch;
+    }
+    
+    .category-pill {
+      @apply px-3 py-1.5 text-xs;
+    }
+  }
+  
+  /* Hide scrollbar but keep functionality */
+  .no-scrollbar {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+  
+  .no-scrollbar::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Opera */
+  }
+  
+  /* Profile picture styling */
+  .profile-picture {
+    @apply relative rounded-full overflow-hidden flex-shrink-0 border-4 border-red-600;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  }
+}
+
+@media (max-width: 768px) {
+  /* Container for scroll indicator */
+  .category-slider {
+    position: relative;
+    padding-bottom: 12px; /* Make room for the indicator */
+  }
+  
+  /* Thin gray line across full width */
+  .category-slider::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 4px;
+    height: 2px;
+    background-color: rgba(100, 100, 100, 0.1);
+    border-radius: 1px;
+  }
+  
+  /* Red indicator line that represents the visible portion */
+  .category-slider::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    /* Width will be set by JS to match visible portion accurately */
+    width: var(--scroll-width, 30%);
+    bottom: 4px;
+    height: 2px;
+    background-color: rgb(220, 38, 38); /* Red color */
+    border-radius: 12px;
+    /* Movement calculation improved */
+    transform: translateX(var(--scroll-position, 0px));
+    transition: transform 0.2s;
+  }
+}

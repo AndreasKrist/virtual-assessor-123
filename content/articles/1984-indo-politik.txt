@@ -1,0 +1,51 @@
+---
+title: '1984 di Indonesia: Bayangan Orwell dalam Politik Kontemporer'
+date: '2025-04-10'
+excerpt: 'Mengkaji paralel antara distopia dalam novel 1984 karya George Orwell dan dinamika politik Indonesia terkini, dari pengawasan hingga manipulasi narasi.'
+coverImage: '/images/articles/1985.jpg'
+categories: ['Politics', 'Book']
+---
+
+Ketika George Orwell menerbitkan *1984* pada 1949, ia membayangkan dunia distopia di mana kekuasaan absolut, pengawasan total, dan manipulasi kebenaran menjadi alat negara untuk mengendalikan rakyat. Di Indonesia pada awal 2025, bayang-bayang visi Orwell terasa semakin nyata. Dalam konteks politik yang kian suram pasca-Pemilu 2024, elemen-elemen seperti pengawasan digital, penyensoran, dan narasi tunggal yang dipaksakan oleh elite penguasa mengingatkan kita pada Oceania—dunia fiksi yang kini terasa tak begitu jauh dari kenyataan. Artikel ini menelusuri paralel antara *1984* dan politik Indonesia kontemporer.
+
+## Pengawasan Total: Big Brother di Era Digital
+
+Dalam *1984*, "Big Brother" mengawasi setiap gerak-gerik warga melalui telescreen dan informan. Di Indonesia, meski belum ada teknologi sehebat itu, pengawasan digital semakin intensif:
+
+- **Revisi UU ITE**: Perubahan undang-undang pada 2024 memperluas definisi "penyebaran hoaks" dan "ujaran kebencian", memberikan pemerintah kuasa untuk memantau dan menindak aktivitas online warga.
+- **Cyber Patrol**: Kepolisian dan lembaga negara kini rutin memindai media sosial, menargetkan kritik terhadap kebijakan publik—dari protes revisi UU TNI hingga isu ekonomi.
+- **Data Pribadi**: Kebocoran data warga yang berulang, ditambah penggunaan aplikasi pemerintah yang mengharuskan registrasi identitas, menciptakan rasa was-was bahwa "seseorang selalu mengawasi".
+
+Seperti Winston Smith, tokoh utama *1984*, rakyat Indonesia kini hidup dengan kesadaran bahwa setiap kata di dunia maya bisa menjadi bukti pengkhianatan.
+
+## Manipulasi Kebenaran: Kemenangan Narasi Tunggal
+
+Orwell memperkenalkan konsep "doublethink"—kemampuan menerima dua kebenaran yang bertentangan—dan "newspeak", bahasa yang membatasi pemikiran kritis. Di Indonesia, manipulasi narasi oleh penguasa tampak dalam:
+
+- **Buzzer Politik**: Pasca-Pemilu 2024, kelompok bayaran di media sosial terus menyebarkan propaganda pro-pemerintah, menenggelamkan suara independen dengan narasi resmi.
+- **Penyensoran Media**: Stasiun TV dan platform daring yang kritis terhadap kebijakan sering ditekan, sementara laporan resmi tentang "stabilitas nasional" didengungkan tanpa henti.
+- **Rewriting History**: Upaya menulis ulang sejarah Reformasi 1998 atau peristiwa 1965 dengan versi yang lebih "ramah kekuasaan" menggemakan upaya Partai dalam *1984* untuk menghapus fakta demi kekuatan.
+
+Seperti di Oceania, kebenaran di Indonesia kini sering bergantung pada siapa yang berkuasa, bukan fakta objektif.
+
+## Represi dan Hilangnya Kebebasan Individu
+
+Winston Smith di *1984* hidup dalam ketakutan konstan akan hukuman atas pemikirannya sendiri. Di Indonesia, kebebasan individu juga terancam:
+
+- **Penangkapan Aktivis**: Demonstrasi menolak kebijakan seperti revisi UU TNI pada Maret 2025 berakhir dengan penahanan massal, sering kali dengan tuduhan "makar" yang mengada-ada.
+- **Kriminalisasi Kritik**: Kasus seperti penangkapan pengelola akun X yang mengkritik korupsi di proyek strategis nasional menunjukkan betapa rapuhnya kebebasan berpendapat.
+- **Atmosfer Paranoia**: Masyarakat kini ragu untuk bicara terbuka, baik di dunia nyata maupun daring, mirip dengan warga Oceania yang takut pada pengkhianatan.
+
+## Refleksi dari 1984: Peringatan atau Kenyataan?
+
+*1984* bukan sekadar novel, tetapi peringatan tentang apa yang terjadi ketika kekuasaan tak terkendali bertemu dengan teknologi dan manipulasi. Di Indonesia, paralel ini terasa relevan:
+
+1. **Kontrol vs Kebebasan**: Seperti Partai dalam *1984*, elite politik Indonesia tampak lebih tertarik menjaga kontrol ketimbang memelihara demokrasi.
+2. **Teknologi sebagai Senjata**: Jika Orwell membayangkan telescreen, kita kini menghadapi algoritma dan AI yang bisa melacak dan membungkam.
+3. **Hilangnya Harapan**: Ketidakpercayaan publik terhadap institusi—DPR, KPU, bahkan media—mencerminkan apatis Winston di akhir cerita, ketika ia menyerah pada sistem.
+
+Namun, berbeda dengan *1984*, Indonesia masih memiliki ruang perlawanan. Aktivis, jurnalis, dan warga biasa terus bersuara, meski dengan risiko besar. Orwell mengakhiri ceritanya dengan kekalahan total; kita belum sampai di sana—dan mungkin tak akan, jika kesadaran kolektif terus terjaga.
+
+## Kesimpulan: Melawan Distopia di Bumi Pertiwi
+
+Politik Indonesia pada 2025 menunjukkan gejala yang mengkhawatirkan: pengawasan, manipulasi, dan represi yang menggemakan *1984*. Buku ini mengajarkan bahwa kekuasaan absolut lahir dari ketidakpedulian rakyat dan keheningan yang dipaksakan. Untuk menghindari nasib Oceania, Indonesia membutuhkan lebih dari sekadar protes—ia butuh keberanian untuk menolak narasi tunggal, menuntut transparansi, dan mempertahankan kebebasan yang kian tergerus. Orwell telah memperingatkan kita; pertanyaannya, akankah kita mendengar?
